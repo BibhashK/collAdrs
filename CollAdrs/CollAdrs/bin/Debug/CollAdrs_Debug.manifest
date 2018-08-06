@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="CollAdrs" fileName="CollAdrs.dll" assemblyName="CollAdrs.dll" id="Project-8D5F932F7DFC1E4" version="8.0.1096.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="EE4E816D096FFF82D343E5F5E0C0DF">
+    <Assemblies>
+      <Assembly value="CollAdrs.dll" digest="16C1F5D70587389F426F2FDED7B1FD" />
+      <Assembly value="CollAdrs.pdb" digest="315CC72200A55617A2621B938DB65D" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
